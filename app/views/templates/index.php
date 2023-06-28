@@ -7,7 +7,7 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr"> 
   <head>
     <?php include_once './partials/_head.php'; ?>
 
